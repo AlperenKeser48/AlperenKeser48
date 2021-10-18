@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlperenKeser48
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in machine learning, selenium
+- 🌱 I’m currently learning Python and C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me alperenkeser48@gmail.com
 
